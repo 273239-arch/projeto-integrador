@@ -1,4 +1,12 @@
 body {
-    font-family: sans-serif;
-    text-align: center;
+  background-color: #f8f9fa;
+}
+
+.card {
+  border-radius: 12px;
+  background-color: #fff;
+}
+
+.btn {
+  border-radius: 8px;
 }
